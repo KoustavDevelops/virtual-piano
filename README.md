@@ -51,7 +51,7 @@ Works on modern browsers that support:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KoustavDeveloper/virtual-piano.git
+git clone https://github.com/KoustavDevelops/virtual-piano.git
 ```
 
 2. Open `index.html` in your web browser
